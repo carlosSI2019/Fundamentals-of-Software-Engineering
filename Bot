@@ -1,0 +1,31 @@
+from chatterbot.trainers import ListTrainer
+from chatterbot import ChatBot
+chatbot = ChatBot("Bot")
+
+conversa= [
+    "oi",
+    "ola,meu nome é pingo",
+    "tudo bem?",
+    "eu estou bem",
+    "qual seu filme favorito?",
+    "Matrix"
+]
+conversa2= [
+    "o que voce gosta de fazer?",
+    "gosto de dançar",
+    "voce gosta de comer?",
+    "sim eu amo comer",
+]
+
+trainer = ListTrainer(chatbot)
+trainer.train(conversa)
+trainer.train(conversa2)
+while True:
+    pergunta = input("Usuario: ")
+    resposta = chatbot.get_response(pergunta)
+
+    
+    if float(resposta.confidence)>0.5:
+        print ("Bot:", resposta)
+    else:
+        print("Bot: Nao entendi o que voce quis me dizer.")
