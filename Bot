@@ -4,7 +4,7 @@ chatbot = ChatBot("Bot")
 
 conversa= [
     "oi",
-    "ola,meu nome é pingo",
+    "ola,meu nome é pingo vamos ser amigos?",
     "tudo bem?",
     "eu estou bem",
     "qual seu filme favorito?",
