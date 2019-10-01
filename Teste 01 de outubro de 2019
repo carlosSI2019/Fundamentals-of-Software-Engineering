@@ -3,20 +3,44 @@
  data:01/10/2019
  
  Questões:
- 1ª
+ 1ªDe acordo com o próprio livro do Roger Pressman na seção 2.2.2 as atividades de apoio são utilizadas por todo um projeto de software,
+ visando ajudar os desenvolvedores a monitorarem o andamento do projeto,porém,vale salientar que no mesmo livro é declarado que o processo
+ de software não deve ser rígido nem seguido a risca e que ele deve se adaptar de acordo com as necessidades,portanto as atividades de apoio
+ devem estar presentes durante todo o processo mas elas não devem ser utilizadas como tomador de decisão final do projeto.
  
- 2ª
+ 2ªAcredito que não seja possível provar que um programa esteja correto,pelo motivo de que diferentes clientes demandam diferentes necessi-
+ dades e portanto para um cliente onde o meu programa esteja correto e satisfazendo a necessidade talvez para outro aquele programa não es-
+ teja correto.
  
- 3ª
+ 3ªDentro de um processo iterativo onde o cliente e o desenvolvedor estão sempre se comunicando as alterações efetuadas podem ser mais pre-
+ cisas e atender adequadamente o que irá satisfazer o cliente pois somente com o feedback do cliente que o desenvolvedor terá as informações
+ necessárias para alterar o seu projeto.Sim, todos os projetos colocam em seus planos a iteração para que os desenvolvedores tenham informa-
+ ções suficientes para a continuação do projeto.Não acredito que seja possível com apenas uma iteração um projeto ser concluido com apenas
+ uma iteração e ser considerado ágil,pois o resultado que ele trará com tão poucas informações talvez não seja satisfatório.
  
- 4ª
+ 4ªa)Usaria o paradigma fechado pelo fato de que uma compahia de seguros teoricamente deve seguir ritos e burocracias onde não é permitido 
+ inovações ou improvisos pois estariamos tratando com dinheiro e segurança das pessoas algo que deve seguir algum tipo de protocolo.
+ b)Usaria o paradigma aberto pois seria necessário a utilização seguir um ritmo onde usaria alguns controles do paradigma fechado pois esta-
+ ria tratando de defesa como também inovações do paradigma randômico para criar novas estratégias.
+ c)Usaria o paradigma randômico para utilizar o máximo de inovação e criatividade dos membros do projeto afim de criar novidades para os 
+ jogos a serem produzidos.
+ d)Usaria o paradigma sincronizado afim de dividir um problema que seja de interesse da empresa para vários desenvolvedores e que eles se co-
+ municassem apenas no momento de juntar idéias e comentar seus resultados.
  
- 5ª
+ 5ªGranularidade em um conceito de cronograma de software significa o quão uma tarefa poderá ser dividida e o quanto de tempo ela tomará
+ de cada membro do projeto de desenvolvimento de software
  
- 6ª
+ 6ªUm teste bem sucedido de acordo com Glen Myers em seu livro sobre teste de softwares é aquele que revela um novo erro
  
- 7ª
+ 7ªQuando muitos pontos de vistas tem de ser considerados talvez alguns desses pontos de vistas sejam conflitantes entre si tal qual deixe
+ o desenvolvedor com problemas na hora de elaborar o seu projeto,sem falar que as demandas e cenários de uso desses clientes podem ser com-
+ pletamente diferentes dificultando a vida do desenvolvedor.
  
- 8ª
+ 8ªElaboração,negociação,especificação,validação e gestão de requisitos
  
- 9ª
+ 9ªPacotes de analise são categorizações feitas para agrupar requisitos,podem ser usados para agrupar requisitos e ficar mais fácil para o desen-
+ volvedor definir suas prioridades.
+ 
+ 10ªUm diagrama de sequência segue uma sequência pré-ordenada onde todo projeto é dividido em partes que vão seguindo o curso,já o diagra-
+ ma de estados segue estágios do projeto.Ambos os diagramas são semelhantes na questão de que pode se seguir todo o processo do projeto eta-
+ pa por etapa.
